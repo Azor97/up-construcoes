@@ -19,6 +19,25 @@
       background-color: #002242 !important;
   }
 
+  .instagram {
+      background: #d6249f;
+      background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  }
+
+  .instagram:hover {
+      background: #e85b9c;
+      background: radial-gradient(circle at 30% 107%, #fff480 0%, #fff477 5%, #ff4231 45%, #c00c87 60%, #1343d4 90%);
+  }
+
+  .btn-contato {
+      background: rgb(0, 17, 33);
+      background: linear-gradient(27deg, rgba(0, 17, 33, 1) 0%, rgba(0, 17, 33, 1) 33%, rgba(3, 57, 96, 1) 100%);
+  }
+
+  .btn-contato:hover {
+      background: rgb(0, 42, 82);
+      background: linear-gradient(27deg, rgb(0, 33, 63) 0%, rgb(0, 38, 73) 33%, rgb(6, 71, 117) 100%);
+  }
 
   .banners {
       width: 100%;
